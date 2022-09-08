@@ -502,6 +502,9 @@ html {
   border: 0;
   font-size: 15px;
   cursor: pointer;
+    -webkit-appearance: none;
+
+  
 }
 
 .places-buy-btn:hover {
